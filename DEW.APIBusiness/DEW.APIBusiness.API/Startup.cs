@@ -58,6 +58,7 @@ namespace DEW.APIBusiness.API
               });
 
             services.AddTransient<ISubscriptionRepository, SubscriptionRepository>();
+            services.AddTransient<IProductRepository, ProductRepository>();
 
 
             services.AddTransient<HttpClientAuthorizationDelegatingHandler>();

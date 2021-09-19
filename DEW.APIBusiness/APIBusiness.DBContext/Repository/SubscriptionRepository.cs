@@ -13,7 +13,7 @@ namespace APIBusiness.DBContext.Repository
 {
     public class SubscriptionRepository : BaseRepository, ISubscriptionRepository
     {
-        public BaseResponse saveSubscription(string fullName, string email)
+        public BaseResponse SaveSubscription(string fullName, string email)
         {
 
 

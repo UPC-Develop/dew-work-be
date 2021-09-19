@@ -34,7 +34,7 @@ namespace DEW.APIBusiness.API.Controllers
         [Route("savesubscription")]
         public ActionResult SaveSubscription(string fullName, string email)
         {
-            var ret = _SubscriptionRepository.saveSubscription(fullName, email);
+            var ret = _SubscriptionRepository.SaveSubscription(fullName, email);
             return Json(ret);
         }
 

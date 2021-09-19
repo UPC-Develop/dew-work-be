@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace APIBusiness.DBContext.Interface
 {
-    public interface ISubscriptionRepository
+    public interface IProductRepository
     {
-        BaseResponse SaveSubscription(String fullName, String email);
+        BaseResponse GetProductByCategoryId(Int32 categoryId);
     }
 }
