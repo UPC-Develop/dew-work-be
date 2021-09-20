@@ -1,4 +1,5 @@
 ﻿using DBEntity;
+using DEW.APIBusiness.DBEntity.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,6 @@ namespace APIBusiness.DBContext.Interface
 {
     public interface ISubscriptionRepository
     {
-        BaseResponse SaveSubscription(String fullName, String email);
+        BaseResponse SaveSubscription(EntitySubscription entitySubscription);
     }
 }

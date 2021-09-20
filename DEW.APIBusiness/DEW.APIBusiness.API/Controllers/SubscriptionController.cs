@@ -1,4 +1,5 @@
 ﻿using APIBusiness.DBContext.Interface;
+using DEW.APIBusiness.DBEntity.Model;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -32,9 +33,9 @@ namespace DEW.APIBusiness.API.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("savesubscription")]
-        public ActionResult SaveSubscription(string fullName, string email)
+        public ActionResult SaveSubscription([FromBody] EntitySubscription entitySubscription)
         {
-            var ret = _SubscriptionRepository.SaveSubscription(fullName, email);
+            var ret = _SubscriptionRepository.SaveSubscription(entitySubscription);
             return Json(ret);
         }
 

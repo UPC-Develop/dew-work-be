@@ -7,9 +7,9 @@ using DBEntity;
 
 namespace DEW.APIBusiness.DBEntity.Model
 {
-    class EntitySubscription : EntityBase
+    public class EntitySubscription
     {
-        public String FullName { get; set; }
-        public String Email { get; set; }
+        public String fullName { get; set; }
+        public String email { get; set; }
     }
 }

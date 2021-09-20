@@ -2,6 +2,7 @@
 using Dapper;
 using DBContext;
 using DBEntity;
+using DEW.APIBusiness.DBEntity.Model;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -13,7 +14,7 @@ namespace APIBusiness.DBContext.Repository
 {
     public class SubscriptionRepository : BaseRepository, ISubscriptionRepository
     {
-        public BaseResponse SaveSubscription(string fullName, string email)
+        public BaseResponse SaveSubscription(EntitySubscription entitySubscription)
         {
 
 
@@ -27,8 +28,8 @@ namespace APIBusiness.DBContext.Repository
                     const string sql = @"usp_SaveSubscription";
 
                     var p = new DynamicParameters();
-                    p.Add(name: "@FullName", value: fullName, dbType: DbType.String, direction: ParameterDirection.Input);
-                    p.Add(name: "@Email", value: email, dbType: DbType.String, direction: ParameterDirection.Input);
+                    p.Add(name: "@FullName", value: entitySubscription.fullName, dbType: DbType.String, direction: ParameterDirection.Input);
+                    p.Add(name: "@Email", value: entitySubscription.email, dbType: DbType.String, direction: ParameterDirection.Input);
 
                     db.Execute(sql, p, commandType: CommandType.StoredProcedure);
 
