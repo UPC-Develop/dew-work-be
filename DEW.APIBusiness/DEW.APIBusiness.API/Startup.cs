@@ -59,7 +59,7 @@ namespace DEW.APIBusiness.API
 
             services.AddTransient<ISubscriptionRepository, SubscriptionRepository>();
             services.AddTransient<IProductRepository, ProductRepository>();
-
+            services.AddTransient<IContactRepository, ContactRepository>();
 
             services.AddTransient<HttpClientAuthorizationDelegatingHandler>();
             services.AddTransient<IHttpContextAccessor, HttpContextAccessor>();
