@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {}
+    "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {}
   },
   "projects": {
-    "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {
+    "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj",
+        "projectUniqueName": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj",
         "projectName": "DEW.APIBusiness.DBEntity",
-        "projectPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj",
-        "packagesPath": "C:\\Users\\jacb\\.nuget\\packages\\",
-        "outputPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\obj\\",
+        "projectPath": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj",
+        "packagesPath": "C:\\Users\\jtorre\\.nuget\\packages\\",
+        "outputPath": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jacb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jtorre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

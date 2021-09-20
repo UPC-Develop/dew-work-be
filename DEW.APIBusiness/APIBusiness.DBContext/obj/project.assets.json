@@ -898,19 +898,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jacb\\.nuget\\packages\\": {}
+    "C:\\Users\\jtorre\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj",
+      "projectUniqueName": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj",
       "projectName": "APIBusiness.DBContext",
-      "projectPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj",
-      "packagesPath": "C:\\Users\\jacb\\.nuget\\packages\\",
-      "outputPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\obj\\",
+      "projectPath": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj",
+      "packagesPath": "C:\\Users\\jtorre\\.nuget\\packages\\",
+      "outputPath": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jacb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jtorre\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -924,8 +924,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {
-              "projectPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj"
+            "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {
+              "projectPath": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj"
             }
           }
         }
