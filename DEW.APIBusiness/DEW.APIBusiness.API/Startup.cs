@@ -69,6 +69,9 @@ namespace DEW.APIBusiness.API
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "DEW.APIBusiness.API", Version = "v1" });
             });
+
+            //TODO: Registrar las interfaces para Inyección de Dependencias
+            services.AddTransient<IOfferRepository, OfferRepository>();
         }
 
         /// <summary>

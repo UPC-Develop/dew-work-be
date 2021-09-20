@@ -2392,19 +2392,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jacb\\.nuget\\packages\\": {}
+    "C:\\Users\\fiore\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.API\\DEW.APIBusiness.API.csproj",
+      "projectUniqueName": "C:\\Users\\fiore\\Documents\\UPC\\Desarrollo para entorno web\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.API\\DEW.APIBusiness.API.csproj",
       "projectName": "DEW.APIBusiness.API",
-      "projectPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.API\\DEW.APIBusiness.API.csproj",
-      "packagesPath": "C:\\Users\\jacb\\.nuget\\packages\\",
-      "outputPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.API\\obj\\",
+      "projectPath": "C:\\Users\\fiore\\Documents\\UPC\\Desarrollo para entorno web\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.API\\DEW.APIBusiness.API.csproj",
+      "packagesPath": "C:\\Users\\fiore\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fiore\\Documents\\UPC\\Desarrollo para entorno web\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jacb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fiore\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2418,11 +2418,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj": {
-              "projectPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj"
+            "C:\\Users\\fiore\\Documents\\UPC\\Desarrollo para entorno web\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj": {
+              "projectPath": "C:\\Users\\fiore\\Documents\\UPC\\Desarrollo para entorno web\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj"
             },
-            "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {
-              "projectPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj"
+            "C:\\Users\\fiore\\Documents\\UPC\\Desarrollo para entorno web\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {
+              "projectPath": "C:\\Users\\fiore\\Documents\\UPC\\Desarrollo para entorno web\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj"
             }
           }
         }
@@ -2496,7 +2496,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
