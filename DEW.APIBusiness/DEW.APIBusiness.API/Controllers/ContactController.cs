@@ -1,4 +1,5 @@
 ﻿using APIBusiness.DBContext.Interface;
+using DEW.APIBusiness.DBEntity.Model;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -28,9 +29,9 @@ namespace DEW.APIBusiness.API.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("savecontact")]
-        public ActionResult SaveContact(string phone, string email)
+        public ActionResult SaveContact([FromBody] EntityContact entityContact)//string phone, string email)
         {
-            var ret = _ContactRepository.saveContact(phone, email);
+            var ret = _ContactRepository.SaveContact(entityContact);
             return Json(ret);
         }
 

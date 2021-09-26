@@ -2,6 +2,7 @@
 using Dapper;
 using DBContext;
 using DBEntity;
+using DEW.APIBusiness.DBEntity.Model;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -13,7 +14,7 @@ namespace APIBusiness.DBContext.Repository
 {
     public class ContactRepository : BaseRepository, IContactRepository
     {
-        public BaseResponse saveContact(string phone, string email)
+        public BaseResponse SaveContact(EntityContact entityContact)
         {
             var returnEntity = new BaseResponse();
 
@@ -24,8 +25,8 @@ namespace APIBusiness.DBContext.Repository
                     const string sql = @"usp_SaveContact";
 
                     var p = new DynamicParameters();
-                    p.Add(name: "@Phone", value: phone, dbType: DbType.String, direction: ParameterDirection.Input);
-                    p.Add(name: "@Email", value: email, dbType: DbType.String, direction: ParameterDirection.Input);
+                    p.Add(name: "@Phone", value: entityContact.phone, dbType: DbType.String, direction: ParameterDirection.Input);
+                    p.Add(name: "@Email", value: entityContact.email, dbType: DbType.String, direction: ParameterDirection.Input);
 
                     db.Execute(sql: sql, param: p, commandType: CommandType.StoredProcedure);
 
@@ -46,5 +47,7 @@ namespace APIBusiness.DBContext.Repository
 
             return returnEntity;
         }
+
+
     }
 }
