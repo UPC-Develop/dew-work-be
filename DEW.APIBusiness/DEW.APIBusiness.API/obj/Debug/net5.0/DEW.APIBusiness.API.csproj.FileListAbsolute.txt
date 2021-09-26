@@ -97,7 +97,6 @@ C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.AssemblyInfoInputs.cache
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.AssemblyInfo.cs
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.csproj.CoreCompileInputs.cache
-C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\staticwebassets\DEW.APIBusiness.API.StaticWebAssets.Manifest.cache
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\staticwebassets\DEW.APIBusiness.API.StaticWebAssets.xml

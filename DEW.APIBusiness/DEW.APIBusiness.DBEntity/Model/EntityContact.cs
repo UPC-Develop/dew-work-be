@@ -8,9 +8,9 @@ using DBEntity;
 
 namespace DEW.APIBusiness.DBEntity.Model
 {
-    class EntityContact : EntityBase
+    public class EntityContact
     {
-        public String Phone { get; set; }
-        public String Email { get; set; }
+        public String phone { get; set; }
+        public String email { get; set; }
     }
 }
