@@ -72,6 +72,7 @@ namespace DEW.APIBusiness.API
 
             //TODO: Registrar las interfaces para Inyección de Dependencias
             services.AddTransient<IOfferRepository, OfferRepository>();
+            services.AddTransient<ICatalogRepository, CatalogRepository>();
         }
 
         /// <summary>

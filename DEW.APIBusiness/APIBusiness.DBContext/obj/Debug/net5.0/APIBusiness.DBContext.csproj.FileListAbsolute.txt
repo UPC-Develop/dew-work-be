@@ -13,3 +13,18 @@ D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusines
 D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.dll
 D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\ref\APIBusiness.DBContext.dll
 D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.pdb
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\APIBusiness.DBContext.deps.json
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\APIBusiness.DBContext.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\ref\APIBusiness.DBContext.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\APIBusiness.DBContext.pdb
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\DEW.APIBusiness.DBEntity.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\DEW.APIBusiness.DBEntity.pdb
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.csproj.AssemblyReference.cache
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.AssemblyInfoInputs.cache
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.AssemblyInfo.cs
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.csproj.CoreCompileInputs.cache
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.csproj.CopyComplete
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\ref\APIBusiness.DBContext.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.pdb

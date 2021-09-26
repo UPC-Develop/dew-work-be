@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace DBEntity
 {
-   public class EntityOffer : EntityBase
+    public class EntityCatalog : EntityBase
     {
         public string Codigo { get; set; }
-        public string Descripcion { get; set; }
+        public string Nombre { get; set; }
         public decimal Precio { get; set; }
-        public string Estado { get; set; }
+        public string Peso { get; set; }
     }
 
 }

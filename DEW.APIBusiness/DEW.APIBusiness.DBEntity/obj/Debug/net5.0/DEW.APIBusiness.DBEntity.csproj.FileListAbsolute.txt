@@ -9,3 +9,15 @@ D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBus
 D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\obj\Debug\net5.0\DEW.APIBusiness.DBEntity.dll
 D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\obj\Debug\net5.0\ref\DEW.APIBusiness.DBEntity.dll
 D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\obj\Debug\net5.0\DEW.APIBusiness.DBEntity.pdb
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\bin\Debug\net5.0\DEW.APIBusiness.DBEntity.deps.json
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\bin\Debug\net5.0\DEW.APIBusiness.DBEntity.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\bin\Debug\net5.0\ref\DEW.APIBusiness.DBEntity.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\bin\Debug\net5.0\DEW.APIBusiness.DBEntity.pdb
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\obj\Debug\net5.0\DEW.APIBusiness.DBEntity.csproj.AssemblyReference.cache
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\obj\Debug\net5.0\DEW.APIBusiness.DBEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\obj\Debug\net5.0\DEW.APIBusiness.DBEntity.AssemblyInfoInputs.cache
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\obj\Debug\net5.0\DEW.APIBusiness.DBEntity.AssemblyInfo.cs
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\obj\Debug\net5.0\DEW.APIBusiness.DBEntity.csproj.CoreCompileInputs.cache
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\obj\Debug\net5.0\DEW.APIBusiness.DBEntity.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\obj\Debug\net5.0\ref\DEW.APIBusiness.DBEntity.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.DBEntity\obj\Debug\net5.0\DEW.APIBusiness.DBEntity.pdb
