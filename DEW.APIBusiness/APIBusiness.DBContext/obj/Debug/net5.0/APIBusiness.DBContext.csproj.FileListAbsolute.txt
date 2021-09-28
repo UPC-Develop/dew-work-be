@@ -1,18 +1,3 @@
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\APIBusiness.DBContext.deps.json
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\APIBusiness.DBContext.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\ref\APIBusiness.DBContext.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\APIBusiness.DBContext.pdb
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\DEW.APIBusiness.DBEntity.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\DEW.APIBusiness.DBEntity.pdb
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.csproj.AssemblyReference.cache
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.GeneratedMSBuildEditorConfig.editorconfig
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.AssemblyInfoInputs.cache
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.AssemblyInfo.cs
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.csproj.CoreCompileInputs.cache
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.csproj.CopyComplete
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\ref\APIBusiness.DBContext.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.pdb
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\APIBusiness.DBContext.deps.json
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\APIBusiness.DBContext.dll
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\ref\APIBusiness.DBContext.dll
@@ -28,3 +13,18 @@ C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\APIBusiness.DBCo
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.dll
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\ref\APIBusiness.DBContext.dll
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.pdb
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\APIBusiness.DBContext.deps.json
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\APIBusiness.DBContext.dll
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\ref\APIBusiness.DBContext.dll
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\APIBusiness.DBContext.pdb
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\DEW.APIBusiness.DBEntity.dll
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\bin\Debug\net5.0\DEW.APIBusiness.DBEntity.pdb
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.csproj.AssemblyReference.cache
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.AssemblyInfoInputs.cache
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.AssemblyInfo.cs
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.csproj.CoreCompileInputs.cache
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.csproj.CopyComplete
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.dll
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\ref\APIBusiness.DBContext.dll
+D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\APIBusiness.DBContext\obj\Debug\net5.0\APIBusiness.DBContext.pdb
