@@ -52,58 +52,58 @@ C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\ref\DEW.APIBusiness.API.dll
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.pdb
 C:\Desarollo web\Proyecto 1909 2\BE\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.genruntimeconfig.cache
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\appsettings.Development.json
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\appsettings.json
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.API.exe
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.API.deps.json
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.API.runtimeconfig.json
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.API.runtimeconfig.dev.json
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.API.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\ref\DEW.APIBusiness.API.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.API.pdb
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Dapper.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Decos.Http.Signatures.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Decos.Http.Signatures.Validation.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\IdentityModel.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Newtonsoft.Json.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\NSwag.Annotations.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\System.Data.SqlClient.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\System.Text.Encodings.Web.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\System.Text.Json.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\APIBusiness.DBContext.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.DBEntity.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\APIBusiness.DBContext.pdb
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.DBEntity.pdb
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.csproj.AssemblyReference.cache
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.GeneratedMSBuildEditorConfig.editorconfig
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.AssemblyInfoInputs.cache
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.AssemblyInfo.cs
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.csproj.CoreCompileInputs.cache
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.MvcApplicationPartsAssemblyInfo.cs
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.MvcApplicationPartsAssemblyInfo.cache
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\staticwebassets\DEW.APIBusiness.API.StaticWebAssets.Manifest.cache
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\staticwebassets\DEW.APIBusiness.API.StaticWebAssets.xml
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\scopedcss\bundle\DEW.APIBusiness.API.styles.css
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.RazorTargetAssemblyInfo.cache
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.csproj.CopyComplete
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\ref\DEW.APIBusiness.API.dll
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.pdb
-D:\Archivos\UPC\desarrollo-web\final-work\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.genruntimeconfig.cache
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\appsettings.json
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.API.exe
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.API.deps.json
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.API.runtimeconfig.json
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.API.runtimeconfig.dev.json
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.API.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\ref\DEW.APIBusiness.API.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.API.pdb
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Decos.Http.Signatures.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Decos.Http.Signatures.Validation.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\APIBusiness.DBContext.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.DBEntity.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\APIBusiness.DBContext.pdb
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\bin\Debug\net5.0\DEW.APIBusiness.DBEntity.pdb
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.csproj.AssemblyReference.cache
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.AssemblyInfoInputs.cache
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.AssemblyInfo.cs
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.csproj.CoreCompileInputs.cache
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\staticwebassets\DEW.APIBusiness.API.StaticWebAssets.Manifest.cache
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\staticwebassets\DEW.APIBusiness.API.StaticWebAssets.xml
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\scopedcss\bundle\DEW.APIBusiness.API.styles.css
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.RazorTargetAssemblyInfo.cache
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.csproj.CopyComplete
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\ref\DEW.APIBusiness.API.dll
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.pdb
+C:\Users\fiore\Documents\UPC\Desarrollo para entorno web\dew-work-be\DEW.APIBusiness\DEW.APIBusiness.API\obj\Debug\net5.0\DEW.APIBusiness.API.genruntimeconfig.cache
