@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj": {}
+    "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj": {}
   },
   "projects": {
-    "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj": {
+    "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj",
+        "projectUniqueName": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj",
         "projectName": "APIBusiness.DBContext",
-        "projectPath": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj",
-        "packagesPath": "C:\\Users\\jtorre\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\obj\\",
+        "projectPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj",
+        "packagesPath": "C:\\Users\\jacb\\.nuget\\packages\\",
+        "outputPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jtorre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jacb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {
-                "projectPath": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj"
+              "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {
+                "projectPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj"
               }
             }
           }
@@ -88,17 +88,17 @@
         }
       }
     },
-    "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {
+    "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj",
+        "projectUniqueName": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj",
         "projectName": "DEW.APIBusiness.DBEntity",
-        "projectPath": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj",
-        "packagesPath": "C:\\Users\\jtorre\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarollo web\\Proyecto 1909 2\\BE\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\obj\\",
+        "projectPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj",
+        "packagesPath": "C:\\Users\\jacb\\.nuget\\packages\\",
+        "outputPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jtorre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jacb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
