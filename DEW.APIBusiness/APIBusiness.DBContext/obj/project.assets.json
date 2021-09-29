@@ -898,19 +898,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fiore\\.nuget\\packages\\": {}
+    "C:\\Users\\jacb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fiore\\Documents\\UPC\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj",
+      "projectUniqueName": "D:\\Archivos\\UPC\\desarrollo-web\\final-work-classroom\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj",
       "projectName": "APIBusiness.DBContext",
-      "projectPath": "C:\\Users\\fiore\\Documents\\UPC\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj",
-      "packagesPath": "C:\\Users\\fiore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fiore\\Documents\\UPC\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\obj\\",
+      "projectPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work-classroom\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\APIBusiness.DBContext.csproj",
+      "packagesPath": "C:\\Users\\jacb\\.nuget\\packages\\",
+      "outputPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work-classroom\\dew-work-be\\DEW.APIBusiness\\APIBusiness.DBContext\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\fiore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jacb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -924,8 +924,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\fiore\\Documents\\UPC\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {
-              "projectPath": "C:\\Users\\fiore\\Documents\\UPC\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj"
+            "D:\\Archivos\\UPC\\desarrollo-web\\final-work-classroom\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj": {
+              "projectPath": "D:\\Archivos\\UPC\\desarrollo-web\\final-work-classroom\\dew-work-be\\DEW.APIBusiness\\DEW.APIBusiness.DBEntity\\DEW.APIBusiness.DBEntity.csproj"
             }
           }
         }
