@@ -64,6 +64,8 @@ namespace DEW.APIBusiness.API
             services.AddTransient<ICatalogRepository, CatalogRepository>();
             services.AddTransient<HttpClientAuthorizationDelegatingHandler>();
             services.AddTransient<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddTransient<IBuyProductRepository, BuyProductRepository>();
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             services.AddControllers();
