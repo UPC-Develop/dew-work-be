@@ -23,7 +23,7 @@ namespace APIBusiness.DBContext.Repository
             {
                 using (var db = GetSqlConnection())
                 {
-                    const string sql = @"usp_SaveSubscription";
+                    const string sql = @"sp_GrabaCabeceraPedido";
 
                     var p = new DynamicParameters();
                     p.Add(name: "@TipDoc", value: entityBuyProduct.tipodocumento, dbType: DbType.String, direction: ParameterDirection.Input);
